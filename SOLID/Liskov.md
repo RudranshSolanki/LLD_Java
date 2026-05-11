@@ -58,7 +58,7 @@ class NonFlyingBird implements Bird{
 }
 
 class Eagle extends FlyBird{
-    public void Fly(){
+    public void fly(){
         Sysem.out.println("Eagle Flying");
     }
 }
