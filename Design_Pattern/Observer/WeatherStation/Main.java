@@ -2,7 +2,6 @@ package Design_Pattern.Observer.WeatherStation;
 
 import Design_Pattern.Observer.WeatherStation.Observable.WeatherObservable;
 import Design_Pattern.Observer.WeatherStation.Observable.WorkStationObservable;
-import Design_Pattern.Observer.WeatherStation.Observer.DisplayObserver;
 import Design_Pattern.Observer.WeatherStation.Observer.PhoneDisplayObserver;
 import Design_Pattern.Observer.WeatherStation.Observer.TVDisplayObserver;
 import Design_Pattern.Observer.WeatherStation.Observer.WebDashboardObserver;
